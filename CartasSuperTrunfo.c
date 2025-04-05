@@ -1,10 +1,11 @@
 #include <stdio.h>
-
 int main() {
   char Estado;
-    
-    
-    
+  char Codigo [20];
+  char Nome [20]; 
+  int População;  
+  float Área;  
+  float Pib;
     
     
     
