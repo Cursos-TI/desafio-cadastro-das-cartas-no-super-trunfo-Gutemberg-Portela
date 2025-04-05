@@ -4,9 +4,10 @@ int main() {
   char Codigo [20];
   char Nome [20]; 
   int População;  
-  float Área;  
+  float Area;  
   float Pib;
     
+  
     
     
     
